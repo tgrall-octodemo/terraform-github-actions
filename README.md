@@ -74,4 +74,4 @@ To use these workflows in your environment several prerequisite steps are requir
 
 A companion article detailing how to use GitHub Actions to deploy to Azure using IaC can be found at the [DevOps Resource Center](). `TODO: add link`
 
-demo
+Call to IoT : aio_DNyf28k818Mtg5NmOQ41r0SKDeMS
